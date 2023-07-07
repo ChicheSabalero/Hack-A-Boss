@@ -1,0 +1,55 @@
+body {
+  background-color: darkgoldenrod;
+}
+
+p {
+  color: black;
+  text-align: justify;
+  width: 80%;
+}
+
+h1 {
+  color: red;
+}
+
+#titulo {
+  color: greenyellow;
+}
+
+p {
+  color: slateblue;
+}
+
+.texto {
+  color: darkgreen;
+}
+
+p.texto {
+  color: rgb(100, 0, 75);
+}
+
+p.especial {
+  color: yellow;
+}
+
+div p {
+  color: aqua;
+}
+
+* {
+  color: white;
+}
+
+img {
+  width: 200px;
+}
+.color {
+  border: 50px color #3a0202;
+}
+
+table {
+  border: #3a0202 50px;
+}
+body {
+  border-color: 15px color #cc0d0df0;
+}
